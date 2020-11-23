@@ -1,0 +1,21 @@
+{
+  "[terraform]": {
+    "editor.formatOnSave": true
+  },
+  "files.associations": {
+    "*.tfvars": "terraform",
+    "*.tfstate.backup": "terraform"
+  },
+  "editor.rulers": [
+    100
+  ],
+  "cSpell.enabled": true,
+  "cSpell.enableFiletypes": [
+    "terraform",
+    "tfvars"
+  ],
+  "cSpell.words": [
+    "hashicorp",
+    "tfvars"
+  ]
+}
